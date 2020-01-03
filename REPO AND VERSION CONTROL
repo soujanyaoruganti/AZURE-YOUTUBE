@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=4-oS5EbzNiE&list=PLaFzfwmPR7_Ifxq-udm66fhReFeGOe2x_&index=26
+
+WHAT IS REPO?
+Repo is container is which is used to store the code and manage code in a systematic way
+
+VERSION CONTROL?
+Version control systems are type of software which are used to track and manage each and every change in code, done by an 
+individual or a team
+
+Repo use?
+To store the code 
+track and mange each and every change done in code by team
+multiple team members can work on code without any issue
+can create several copies using branching systems to work on different task
+no need to keep multiple version for build (as it provides tag feature)
+
+
+
+
