@@ -1,0 +1,34 @@
+What is clone?
+Cloning is copying the project from remote to your local system
+
+Clone can be done in various methods
+
+Clone by GIT
+
+STEP 1:
+Create a project in azure devops
+click on REPOS
+copy the link 
+
+Open the git in the local folder
+command: git clone paste the link
+
+Project from the remote is cloned to the local system
+
+Clone by VSTS:
+GOTO VSTS
+GOTO View
+GOTO Team Explorer
+Press Clone
+Copy and paste link from the azure portal project
+
+
+Clone by GIT Tortise:
+Once git tortise is downloaded
+Copy the clone from azure portal project
+Right click in the location
+click Git clone
+Done
+
+
+
